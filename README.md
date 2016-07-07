@@ -31,6 +31,11 @@ The original version comes from
 [Thomas Luft](http://graphics.uni-konstanz.de/mitarbeiter/luft.php?language=english) in 
 [University of Konstanz](http://graphics.uni-konstanz.de/)
 ### [Click here visit An Ivy Generator Project](http://http://graphics.uni-konstanz.de/~luft/ivy_generator/)
+
+The file *Assets/Ivy/Scripts/Editor/EditorCoroutine.cs* come from *EditorCoroutines for Unity3D* project, Please visit [https://github.com/FelixEngl/EditorCoroutines](https://github.com/FelixEngl/EditorCoroutines) for more information.
+Thanks to  Felix Engl - <felix.engl@hotmail.com>
+
+
 ported by phoenixzz (Weng xiao yi) - <phoenixzz@sina.com>
 
 
